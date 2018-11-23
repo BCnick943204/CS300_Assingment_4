@@ -1,3 +1,7 @@
+/* Nick Passantino 
+ * CS300 Assignment 4
+ * Professor Serce
+ */
 #ifndef ELEMENT_H
 #define ELEMENT_H
 #include <string>

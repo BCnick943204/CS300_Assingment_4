@@ -1,4 +1,7 @@
-
+/* Nick Passantino 
+ * CS300 Assignment 4
+ * Professor Serce
+ */
 #ifndef BINARYSEARCHTREE_H_
 #define BINARYSEARCHTREE_H_
 #include <iostream>

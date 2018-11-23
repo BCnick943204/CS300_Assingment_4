@@ -1,3 +1,7 @@
+/* Nick Passantino 
+ * CS300 Assignment 4
+ * Professor Serce
+ */
 #include <iostream>
 #include <sstream>
 #include <fstream>
